@@ -1,0 +1,4 @@
+rubka
+translate
+gTTS
+pillow
